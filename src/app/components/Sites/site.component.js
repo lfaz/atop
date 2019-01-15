@@ -30,7 +30,7 @@ class SiteComponent extends React.Component {
   render() {
     return (
       <div className="SiteComponent">
-        SiteComponenttttttttttt
+        SiteComponent
       </div>
     );
   }
